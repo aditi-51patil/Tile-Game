@@ -1,0 +1,47 @@
+.bg-image-neon{
+    background-image: url("../assets/img.jpg");
+    background-repeat: round;
+}
+
+.arena {
+    background-color: green;
+    width:500px;
+    height:500px;
+}
+.div-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* height: 100%; */
+}
+.absolute-center{
+    position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	/* margin: auto; */
+}
+.game_blocks{
+    background: black;
+    border:1px solid white;
+}
+.game_block_level_4{
+    width:50%;
+    height: 50%;
+}
+.game_block_level_9{
+    width:33%;
+    height: 33%;
+}
+.game_block_level_16{
+    width:25%;
+    height: 25%;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
